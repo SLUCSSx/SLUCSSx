@@ -1,62 +1,50 @@
-<!DOCTYPE html><html lang="pt-br">
+<!DOCTYPE html><html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MotionVerso - Aprenda Alight Motion</title>
+    <title>MotionVerso - Curso de Edição</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
         <h1>MotionVerso</h1>
-        <nav>
-            <ul>
-                <li><a href="#sobre">Sobre</a></li>
-                <li><a href="#curso">O Curso</a></li>
-                <li><a href="#beneficios">Benefícios</a></li>
-                <li><a href="#preco">Preço</a></li>
-                <li><a href="#contato">Contato</a></li>
-            </ul>
-        </nav>
-    </header><section id="banner">
-    <h2>Aprenda Alight Motion como um profissional!</h2>
-    <p>Curso vitalício, com atualizações recorrentes e suporte exclusivo.</p>
-    <a href="#preco" class="btn">Garanta seu Acesso Agora</a>
+        <p>O curso definitivo de Alight Motion</p>
+    </header><section id="sobre">
+    <h2>Sobre o Curso</h2>
+    <p>O MotionVerso é um curso vitalício, com aulas recorrentes sobre Alight Motion, abordando desde o básico até animações avançadas.</p>
 </section>
 
-<section id="sobre">
-    <h2>Sobre o MotionVerso</h2>
-    <p>O MotionVerso é um curso completo focado no Alight Motion, ideal para iniciantes e editores que desejam aprimorar suas habilidades.</p>
-</section>
-
-<section id="curso">
-    <h2>O que você vai aprender?</h2>
+<section id="conteudo">
+    <h2>O que você vai aprender</h2>
     <ul>
         <li>Tela inicial do Alight Motion</li>
-        <li>Formas, mídia, áudio e câmera</li>
-        <li>Objetos nulos, agrupamento e elementos</li>
-        <li>Ferramentas de corte, cor e preenchimento</li>
-        <li>Texto, velocidade e muito mais!</li>
-    </ul>
-</section>
-
-<section id="beneficios">
-    <h2>Benefícios Exclusivos</h2>
-    <ul>
-        <li>Acesso vitalício</li>
-        <li>Aulas recorrentes</li>
-        <li>Lives semanais e suporte VIP</li>
-        <li>Grupo exclusivo no WhatsApp</li>
+        <li>Formas</li>
+        <li>Mídia</li>
+        <li>Áudio</li>
+        <li>Câmera</li>
+        <li>Objeto Nulo</li>
+        <li>Agrupamento de elementos</li>
+        <li>Elementos</li>
+        <li>Modelos</li>
+        <li>Desenho à mão livre</li>
+        <li>Desenho vetorial</li>
+        <li>Texto</li>
+        <li>Velocidade</li>
+        <li>Ferramentas de corte</li>
+        <li>Cor e preenchimento</li>
+        <li>Borda e sombra</li>
+        <li>Homogeneização e opacidade</li>
     </ul>
 </section>
 
 <section id="preco">
-    <h2>Preço Especial</h2>
-    <p>Apenas <strong>R$ 67,90</strong> (pagamento único)</p>
-    <a href="#" class="btn">Comprar Agora</a>
+    <h2>Valor do Curso</h2>
+    <p>Apenas <strong>R$ 67,90</strong> por um acesso vitalício!</p>
+    <a href="https://pay.kirvano.com/3e8be21c-bdcd-4386-b721-3505b83f05fb" class="botao">Comprar Agora</a>
 </section>
 
 <footer>
-    <p>© 2025 MotionVerso. Todos os direitos reservados.</p>
+    <p>&copy; 2025 MotionVerso. Todos os direitos reservados.</p>
 </footer>
 
 </body>
