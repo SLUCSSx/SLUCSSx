@@ -2,50 +2,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MotionVerso - Curso de Edição</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>MotionVerso - O Curso Definitivo de Alight Motion</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: #ffffff;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        h1 {
+            color: #00aaff;
+        }
+        .button {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            padding: 15px 30px;
+            font-size: 18px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
 </head>
 <body>
-    <header>
-        <h1>MotionVerso</h1>
-        <p>O curso definitivo de Alight Motion</p>
-    </header><section id="sobre">
-    <h2>Sobre o Curso</h2>
-    <p>O MotionVerso é um curso vitalício, com aulas recorrentes sobre Alight Motion, abordando desde o básico até animações avançadas.</p>
-</section>
-
-<section id="conteudo">
-    <h2>O que você vai aprender</h2>
-    <ul>
-        <li>Tela inicial do Alight Motion</li>
-        <li>Formas</li>
-        <li>Mídia</li>
-        <li>Áudio</li>
-        <li>Câmera</li>
-        <li>Objeto Nulo</li>
-        <li>Agrupamento de elementos</li>
-        <li>Elementos</li>
-        <li>Modelos</li>
-        <li>Desenho à mão livre</li>
-        <li>Desenho vetorial</li>
-        <li>Texto</li>
-        <li>Velocidade</li>
-        <li>Ferramentas de corte</li>
-        <li>Cor e preenchimento</li>
-        <li>Borda e sombra</li>
-        <li>Homogeneização e opacidade</li>
-    </ul>
-</section>
-
-<section id="preco">
-    <h2>Valor do Curso</h2>
-    <p>Apenas <strong>R$ 67,90</strong> por um acesso vitalício!</p>
-    <a href="https://pay.kirvano.com/3e8be21c-bdcd-4386-b721-3505b83f05fb" class="botao">Comprar Agora</a>
-</section>
-
-<footer>
-    <p>&copy; 2025 MotionVerso. Todos os direitos reservados.</p>
-</footer>
-
+    <div class="container">
+        <h1>Bem-vindo ao MotionVerso</h1>
+        <p>O curso definitivo para aprender Alight Motion de forma rápida e prática.</p>
+        <p>✅ Aulas recorrentes e vitalícias</p>
+        <p>✅ Módulo 1 disponível imediatamente</p>
+        <p>✅ Módulo 2 chegando em breve!</p>
+        <p>💰 Preço único: <strong>R$ 67,90</strong></p>
+        <a href="https://pay.kirvano.com/3e8be21c-bdcd-4386-b721-3505b83f05fb" class="button">Garantir Acesso Agora</a>
+    </div>
 </body>
-</html> 
+</html>
